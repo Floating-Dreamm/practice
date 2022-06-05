@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Practice.iml" filepath="$PROJECT_DIR$/Practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Common/practice-common.iml" filepath="$PROJECT_DIR$/Common/practice-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NettyPractice/practice-netty.iml" filepath="$PROJECT_DIR$/NettyPractice/practice-netty.iml" />
+    </modules>
+  </component>
+</project>
