@@ -9,9 +9,11 @@
         <outputRelativeToContentRoot value="true" />
         <module name="practice-netty" />
         <module name="practice-common" />
+        <module name="AlgorithmCode" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="AlgorithmCode" target="8" />
       <module name="NettyPractice (1)" target="1.8" />
       <module name="Practice" target="1.8" />
       <module name="practice-common" target="1.8" />
@@ -20,6 +22,7 @@
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="AlgorithmCode" options="-parameters" />
       <module name="practice-common" options="-parameters" />
       <module name="practice-netty" options="-parameters" />
     </option>

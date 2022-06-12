@@ -18,6 +18,7 @@
     <modules>
         <module>NettyPractice</module>
         <module>Common</module>
+        <module>AlgorithmCode</module>
     </modules>
 
     <properties>
