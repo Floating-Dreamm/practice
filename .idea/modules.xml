@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/Practice.iml" filepath="$PROJECT_DIR$/Practice.iml" />
       <module fileurl="file://$PROJECT_DIR$/Common/practice-common.iml" filepath="$PROJECT_DIR$/Common/practice-common.iml" />
       <module fileurl="file://$PROJECT_DIR$/NettyPractice/practice-netty.iml" filepath="$PROJECT_DIR$/NettyPractice/practice-netty.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rocketMQDemo/rocketMQDemo.iml" filepath="$PROJECT_DIR$/rocketMQDemo/rocketMQDemo.iml" />
     </modules>
   </component>
 </project>
